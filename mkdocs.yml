@@ -25,8 +25,8 @@ site_author: 网络安全团队
 site_description: 网络安全团队维护的一个漏洞POC和EXP披露以及漏洞复现的开源项目，欢迎各位白帽子访问本项目并提出宝贵建议。
 
 # Repository
-repo_name: 'kukuqi666/vulhub'
-repo_url: 'https://github.com/kukuqi666/vulhub'
+repo_name: 'kukuqi666/mkdocs'
+repo_url: 'https://github.com/kukuqi666/mkdocs'
 edit_uri: 'blob/main/docs/'
 
 # Copyright
