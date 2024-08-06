@@ -1,17 +1,11 @@
-# 白阁文库
-
-![GitHub last commit](https://img.shields.io/github/last-commit/BaizeSec/bylibrary) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BaizeSec/bylibrary) ![GitHub contributors](https://img.shields.io/github/contributors-anon/BaizeSec/bylibrary?color=brightgreen)
+# 漏洞文档
 
 
 ## 简介
 
-此仓库是白泽 Sec 团队对于白阁文库的内测版：
+Github访问：https://kukuqi666.github.io/mkdocs
 
-Github访问：https://baizesec.github.io/bylibrary
-
-服务器访问：https://wiki.bylibrary.cn
-
-漏洞投稿邮箱：ByLibrary@163.com
+漏洞投稿邮箱：kukuqi666@gmail.com
 
 ## 贡献指南
 
@@ -41,12 +35,6 @@ Github访问：https://baizesec.github.io/bylibrary
 
 ![示例](./docs/团队简介/示例.png)
 
-#### 加入我们
-
-------
-
-如果你也想成为白阁文库开源力量的一份子，请发送简历至邮箱ByLibrary@163.com
-
 
 
 
@@ -55,9 +43,9 @@ Github访问：https://baizesec.github.io/bylibrary
 
 ------
 
-白阁文库文章均来自网络文章综合、团队原创以及白帽子投稿，对于有可溯来源的文章我们将会注明来源，对引用参考内容的文章，我们将会在每篇文章末标注引用参考来源。如有文章来源和参考链接更新不及时的情况，请各位及时批评指正。
+漏洞文档均来自网络文章综合、团队原创以及白帽子投稿，对于有可溯来源的文章我们将会注明来源，对引用参考内容的文章，我们将会在每篇文章末标注引用参考来源。如有文章来源和参考链接更新不及时的情况，请各位及时批评指正。
 
-关于白阁文库的文章，目前正在不断的进行更新扩充中...
+
 
 
 
