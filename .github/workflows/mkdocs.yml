@@ -34,7 +34,7 @@ jobs:
           REQUIREMENTS: requirements.txt
 
       - name: Deploy MkDocs
-        uses: kukuqi666/mkdocs-deploy-gh-pages@master
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXTRA_PACKAGES: build-base
