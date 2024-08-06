@@ -33,8 +33,8 @@ jobs:
           EXTRA_PACKAGES: build-base
           REQUIREMENTS: requirements.txt
 
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXTRA_PACKAGES: build-base
