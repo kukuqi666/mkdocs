@@ -22,7 +22,7 @@
 site_name: 漏洞文档
 site_url: https://kukuqi666.github.io/mkdocs
 site_author: 网络安全团队
-site_description: 网络安全团队维护的一个漏洞POC和EXP披露以及漏洞复现的开源项目，欢迎各位白帽子访问本项目并提出宝贵建议。
+site_description: 
 
 # Repository
 repo_name: 'kukuqi666/mkdocs'
