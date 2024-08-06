@@ -27,7 +27,7 @@ site_description: 网络安全团队维护的一个漏洞POC和EXP披露以及�
 # Repository
 repo_name: 'kukuqi666/mkdocs'
 repo_url: 'https://github.com/kukuqi666/mkdocs'
-edit_uri: 'blob/main/docs/'
+edit_uri: 'main/docs/'
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2024 网络安全实验室
