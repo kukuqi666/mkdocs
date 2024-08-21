@@ -1,0 +1,33 @@
+/* 文档页面的背景和间距 */
+.md-typeset {
+    padding: 2rem;
+    background-color: #f7f7f7;
+}
+
+/* 模块化盒子样式 */
+.md-typeset .box {
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 盒子内标题样式 */
+.md-typeset .box h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+}
+
+/* 盒子内段落样式 */
+.md-typeset .box p {
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+/* 盒子外观的过渡效果 */
+.md-typeset .box:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    border-color: #bdbdbd;
+}
