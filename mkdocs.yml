@@ -76,9 +76,6 @@ extra:
     - icon: fontawesome/brands/i春秋
       link: https://www.ichunqiu.com/
       name: i春秋
-    - icon: fontawesome/brands/雷神众测
-      link: https://www.bountyteam.com
-      name: 雷神众测
     - icon: fontawesome/brands/狼组
       link: https://www.wgpsec.org/
       name: 狼组
@@ -91,9 +88,6 @@ extra:
     - icon: fontawesome/brands/hack学习呀
       link: https://index.tesla-space.com/
       name: hack学习呀
-    - icon: fontawesome/brands/华盟网
-      link: https://www.77169.net/
-      name: 华盟网
 
 # Extensions
 markdown_extensions:
