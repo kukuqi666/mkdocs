@@ -1,33 +1,47 @@
-/* 文档页面的背景和间距 */
-.md-typeset {
-    padding: 2rem;
-    background-color: #f7f7f7;
+/* 卡片的整体布局 */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
 }
 
-/* 模块化盒子样式 */
-.md-typeset .box {
-    padding: 1.5rem;
-    margin: 1.5rem 0;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    background-color: #ffffff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+/* 单个卡片的样式 */
+.card {
+  flex: 1 1 calc(33.333% - 16px);
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  transition: box-shadow 0.3s ease;
 }
 
-/* 盒子内标题样式 */
-.md-typeset .box h2 {
-    margin-top: 0;
-    font-size: 1.5rem;
+/* 卡片的hover效果 */
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 
-/* 盒子内段落样式 */
-.md-typeset .box p {
-    margin-bottom: 0;
-    font-size: 1rem;
+/* 卡片标题 */
+.card h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+  color: #333;
 }
 
-/* 盒子外观的过渡效果 */
-.md-typeset .box:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-    border-color: #bdbdbd;
+/* 卡片内容 */
+.card p {
+  margin: 8px 0;
+  color: #666;
+}
+
+/* 链接的样式 */
+.card a {
+  color: #1e88e5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card a:hover {
+  text-decoration: underline;
 }
