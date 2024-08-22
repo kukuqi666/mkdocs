@@ -39,3 +39,22 @@
 .card a:hover {
   text-decoration: underline;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #1e88e5;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #155a8a;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
