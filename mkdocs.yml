@@ -38,10 +38,6 @@ theme:
   custom_dir: material
   font: false #禁止加载Google字体库
 
-  #extra_css
-  extra_css:
-    - assets/extra.css
-
   # 404 page
   static_templates:
     - 404.html
