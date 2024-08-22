@@ -1,4 +1,4 @@
-# Vulapps
+# 安全靶场
 
 <div class="cards">
   <div class="card">
@@ -8,8 +8,6 @@
   </div>
 </div>
 
-# Vulnhub
-
 <div class="cards">
   <div class="card">
     <h2>Vulnhub</h2>
@@ -18,8 +16,6 @@
   </div>
 </div>
 
-# VulWeb
-
 <div class="cards">
   <div class="card">
     <h2>VulWeb</h2>
@@ -27,8 +23,6 @@
     <p>你可以访问 <a href="http://vulnweb.com" target="_blank">VulWeb</a> 以了解更多信息。</p>
   </div>
 </div>
-
-# Web For Pentester
 
 <div class="cards">
   <div class="card">
