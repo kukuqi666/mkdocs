@@ -1,6 +1,6 @@
 # 安全靶场
 
-<div class="cards">
+<div class="cards-container">
   <div class="card">
     <h2>Vulapps</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -8,7 +8,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>Vulnhub</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -16,7 +15,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>VulWeb</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -24,7 +22,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>Web For Pentester</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -32,7 +29,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>xss challenges</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -40,7 +36,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>BUUCTF</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -48,7 +43,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>hackinglab</h2>
     <p>这是一个盒子模块化的内容部分。</p>
@@ -56,7 +50,6 @@
   </div>
 </div>
 
-<div class="cards">
   <div class="card">
     <h2>owaspbwa</h2>
     <p>这是一个盒子模块化的内容部分。</p>
