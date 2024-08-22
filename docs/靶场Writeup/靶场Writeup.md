@@ -5,7 +5,7 @@
     <div class="card">
       <h2>Vulapps</h2>
       <p>这是一个盒子模块化的内容部分。</p>
-      <button class="btn" onclick="window.open('http://www.vulapps.com', '_blank')">传送门</button>
+      <button class="btn" onclick="window.open('http://vulapps.evalbug.com/', '_blank')">传送门</button>
     </div>
 
     <div class="card">
@@ -21,9 +21,9 @@
     </div>
 
     <div class="card">
-      <h2>Web For Pentester</h2>
+      <h2>Pentester</h2>
       <p>这是一个盒子模块化的内容部分。</p>
-      <button class="btn" onclick="window.open('http://www.webforpentester.com', '_blank')">传送门</button>
+      <button class="btn" onclick="window.open('https://pentesterlab.com/', '_blank')">传送门</button>
     </div>
 
     <div class="card">
