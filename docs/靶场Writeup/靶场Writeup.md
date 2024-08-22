@@ -5,7 +5,7 @@
     <div class="card">
       <h2>Vulapps</h2>
       <p>这是一个盒子模块化的内容部分。</p>
-      <button class="btn" onclick="window.open('http://www.vulapps.com', '_blank')">Vulapps</button>
+      <button class="btn" onclick="window.open('http://www.vulapps.com', '_blank')">传送门</button>
     </div>
 
     <div class="card">
