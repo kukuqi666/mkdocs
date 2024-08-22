@@ -35,7 +35,7 @@ copyright: Copyright &copy; 2019 - 2024 网络安全实验室
 # Configuration
 theme:
   name: material
-  custom_dir: css
+  custom_dir: css/extra.css
   font: false #禁止加载Google字体库
 
   # 404 page
